@@ -1,5 +1,5 @@
 <?php
 echo "IP address: " . $_SERVER['SERVER_ADDR'];
-echo "\n";
+echo "<br>";
 echo "HostName: " . gethostname(); 
 ?>
